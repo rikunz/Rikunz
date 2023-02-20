@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Rikunz/Rikunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Rikunz👋 ![Discord](https://avatars.githubusercontent.com/u/88525167?s=40&u=e52a2766626bf268468d3d18740b9105520204d1&v=4)    
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm teenager
+
+- I like running
+- I like Workout
+- I love Programming Some codes
+- Never Surrender Though That was imposible to reach
+- Now I like Shadow
+
+##
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Rikunz&theme=tokyonight)
