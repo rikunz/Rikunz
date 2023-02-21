@@ -7,9 +7,10 @@
 
 - I like running
 - I like Workout
-- I love Programming Some codes
+- I like Technology
+- I like a challenge
 - Never Surrender Though That was imposible to reach
-- Now I like Shadow
+- Now Being Shadow
 
 ##
 
