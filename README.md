@@ -12,7 +12,7 @@
 - Never Surrender Though That was imposible to reach
 - Now Being Shadow
 
-## rikunzz.netzxray.eu.org
+https://rikunzz.netzxray.eu.org
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Rikunz&theme=tokyonight)
 
