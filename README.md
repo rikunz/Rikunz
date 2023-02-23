@@ -21,7 +21,7 @@
 </p>
 
 <p align="center" style="">
- <font size="9" face="Courier New" color="red">https://rikunzz.netzxray.eu.org</font>
- </p>
+ <font size="9" color="red">https://rikunzz.netzxray.eu.org</font>
+</p>
 
 
