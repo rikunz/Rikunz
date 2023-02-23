@@ -10,7 +10,7 @@
 <p align="center">
   <img align="center" src="https://lanyard.cnrad.dev/api/430729478151602183" href="https://discord.com/users/430729478151602183" alt="Rikunz" />
   </p>
-
+<p align="center">
 - I like running
 - I like Workout
 - I like Technology
@@ -18,6 +18,8 @@
 - Never Surrender Though That was imposible to reach
 - Now Being Shadow
 - Teenager
+</p>
+
 
 ## https://rikunzz.netzxray.eu.org
 
