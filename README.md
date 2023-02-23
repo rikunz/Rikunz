@@ -11,12 +11,12 @@
   <img align="center" src="https://lanyard.cnrad.dev/api/430729478151602183" href="https://discord.com/users/430729478151602183" alt="Rikunz" />
   </p>
 <p align="center">
-- I like running
-- I like Workout
-- I like Technology
-- I like a challenge
-- Never Surrender Though That was imposible to reach
-- Now Being Shadow
+- I like running <br>
+- I like Workout <br>
+- I like Technology <br>
+- I like a challenge <br>
+- Never Surrender Though That was imposible to reach <br>
+- Now Being Shadow <br>
 - Teenager
 </p>
 
