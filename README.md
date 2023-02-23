@@ -1,7 +1,5 @@
-
-### Hi there, I'm Rikunz👋    
-
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=Rikunz&label=Profile%20views&color=1ea97f&style=flat" alt="Revenger-A" /></p>
+<h1 align="center">Hi there, I'm Rikunz👋</h1>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Rikunz&label=Profile%20views&color=1ea97f&style=flat" alt="Revenger-A" /></p>
 
 ## I'm teenager
 
