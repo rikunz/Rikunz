@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Rikunz👋</h1>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Rikunz&label=Profile%20views&color=1ea97f&style=flat" alt="Revenger-A" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Rikunz&label=Profile%20views&color=1ea97f&style=flat" alt="Rikunz" /></p>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rikunz&theme=radical&mode=weekly" alt="Rikunz" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rikunz&theme=tokyonight" alt="Rikunz" />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Rikunz&theme=tokyonight)
 
