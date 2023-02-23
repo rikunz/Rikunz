@@ -20,8 +20,8 @@
 - Teenager
 </p>
 
-<p align="center">
- https://rikunzz.netzxray.eu.org
+<p align="center" style="">
+ <font size="9" face="Courier New" color="red">https://rikunzz.netzxray.eu.org</font>
  </p>
 
 
