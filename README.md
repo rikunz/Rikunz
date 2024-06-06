@@ -11,8 +11,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rikunz&theme=radical&mode=weekly" alt="Rikunz" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rikunz&theme=tokyonight" alt="Rikunz" />
 <br>
- <img align="center" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api/top-langs?langs_count=6&username=Rikunz&theme=radical&layout=compact&hide=css,html,ShaderLab,HLSL&count_private=true" alt="Rikunz" />
-</p>
+
 
 <p align="center">
 - I like running <br>
