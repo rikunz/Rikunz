@@ -1,3 +1,5 @@
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=570681&height=220&section=header&text=Failzuma%20イルハム&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi there, I'm Rikunz👋</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Rikunz&label=Profile%20views&color=1ea97f&style=flat" alt="Rikunz" /></p>
 <br>
@@ -26,4 +28,4 @@
  https://rikunzz.netzxray.eu.org
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
