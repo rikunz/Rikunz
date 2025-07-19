@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=570681&height=220&section=header&text=Failzuma%20イルハム&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62) -->
 <h1 align="center">Hi 👋, I'm Thoriq Firdaus Arifin</h1>
-<h3 align="center">Data Engineer, Data Science, AI Engineer Enthusiast</h3>
+<h3 align="center">Data Engineer, AI Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rikunz&label=Profile%20views&color=0e75b6&style=flat" alt="rikunz" /> </p>
 
