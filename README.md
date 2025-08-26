@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikunz&" alt="rikunz" /></p>
 
 <p align="center" style="color:red, size:9">
- https://rikunzz.netzxray.eu.org
+ https://rikunz.portoku.live/
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
