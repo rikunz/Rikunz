@@ -126,11 +126,14 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rikunz&layout=compact&langs_count=8&theme=omni" alt="rikunz" /></p>
+### ⚙️ &nbsp;GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rikunz&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="rikunz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikunz&" alt="rikunz" /></p>
+<p align="center" class="d-flex justify-content-center align-items-center">
+  <a href="https://github.com/Failzuma">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rikunz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rikunz&layout=compact&langs_count=8&theme=omni"/>
+  </a>
+</p>
 
 <p align="center" style="color:red, size:9">
  https://rikunz.portoku.live/
