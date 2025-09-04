@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rikunz&label=Profile%20views&color=0e75b6&style=flat" alt="rikunz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikunz" alt="rikunz" /></a> </p>
-
 - 🌱 I’m currently learning **Pytorch, PySpark**
 
 - 💬 Ask me about **Deeplearning, AI, OR everything about data**
