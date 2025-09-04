@@ -78,7 +78,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center" class="d-flex justify-content-center align-items-center">
-  <a href="https://github.com/Failzuma">
+  <a href="https://github.com/rikunz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rikunz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rikunz&layout=compact&langs_count=8&theme=omni"/>
   </a>
