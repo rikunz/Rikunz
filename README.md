@@ -19,36 +19,36 @@
 
 ### 🛠 &nbsp;Languages and Tools:
 
-![Python](https://img.shields.io/badge/Python-280137?style=flat&logo=python&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-280137?style=flat&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-280137?style=flat&logo=flask&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-280137?style=flat&logo=pandas&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/Seaborn-280137?style=flat&logo=seaborn&logoColor=white)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-280137?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-280137?style=flat&logo=pytorch&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-280137?style=flat&logo=tensorflow&logoColor=white)&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-280137?style=flat&logo=opencv&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-280137?style=flat&logo=javascript&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-280137?style=flat&logo=php&logoColor=white)&nbsp;
-![Matlab](https://img.shields.io/badge/Matlab-280137?style=flat&logo=matlab&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-280137?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/Django-280137?style=flat&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-280137?style=flat&logo=flask)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-280137?style=flat&logo=pandas)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-280137?style=flat)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-280137?style=flat&logo=scikit-learn)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-280137?style=flat&logo=pytorch)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-280137?style=flat&logo=tensorflow)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-280137?style=flat&logo=opencv)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-280137?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-280137?style=flat&logo=php)&nbsp;
+![Matlab](https://img.shields.io/badge/Matlab-280137?style=flat&logo=matlab)&nbsp;
 ![Express](https://img.shields.io/badge/Express-280137?style=flat&logo=express&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-280137?style=flat&logo=node.js&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-280137?style=flat&logo=amazonaws&logoColor=white)&nbsp;
-![GCP](https://img.shields.io/badge/GCP-280137?style=flat&logo=googlecloud&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-280137?style=flat&logo=firebase&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-280137?style=flat&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-280137?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-280137?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Cassandra](https://img.shields.io/badge/Cassandra-280137?style=flat&logo=apachecassandra&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/Kafka-280137?style=flat&logo=apachekafka&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-280137?style=flat&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-280137?style=flat&logo=kubernetes&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/Nginx-280137?style=flat&logo=nginx&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-280137?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-280137?style=flat&logo=git&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-280137?style=flat&logo=postman&logoColor=white)&nbsp;
-![Puppeteer](https://img.shields.io/badge/Puppeteer-280137?style=flat&logo=puppeteer&logoColor=white)&nbsp;
-![Selenium](https://img.shields.io/badge/Selenium-280137?style=flat&logo=selenium&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-280137?style=flat&logo=node.js)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-280137?style=flat&logo=amazonaws)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-280137?style=flat&logo=googlecloud)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-280137?style=flat&logo=firebase)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-280137?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-280137?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-280137?style=flat&logo=mongodb)&nbsp;
+![Cassandra](https://img.shields.io/badge/Cassandra-280137?style=flat&logo=apachecassandra)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-280137?style=flat&logo=apachekafka)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-280137?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-280137?style=flat&logo=kubernetes)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-280137?style=flat&logo=nginx)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-280137?style=flat&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/Git-280137?style=flat&logo=git)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-280137?style=flat&logo=postman)&nbsp;
+![Puppeteer](https://img.shields.io/badge/Puppeteer-280137?style=flat&logo=puppeteer)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-280137?style=flat&logo=selenium)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
