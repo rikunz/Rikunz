@@ -12,9 +12,9 @@
 
 - ⚡ Fun fact **I think i'm the person who loves learning something that essentials to human life**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rikunz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rikunz" height="30" width="40" /></a>
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+    <a href="https://discord.com/users/430729478151602183"><img src="https://lanyard.cnrad.dev/api/430729478151602183?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
