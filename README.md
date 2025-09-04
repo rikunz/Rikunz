@@ -17,112 +17,38 @@
     <a href="https://discord.com/users/430729478151602183"><img src="https://lanyard.cnrad.dev/api/430729478151602183?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Python Core & Frameworks -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
+### 🛠 &nbsp;Languages and Tools:
 
-  <!-- Python Data / ML / AI -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-
-  <!-- Other Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-
-  <!-- Other Frameworks -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-
-  <!-- Cloud Services -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> 
-  </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-  </a> 
-
-  <!-- DevOps / Tools -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-</p>
+![Python](https://img.shields.io/badge/Python-280137?style=flat&logo=python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-280137?style=flat&logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-280137?style=flat&logo=flask&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-280137?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-280137?style=flat&logo=seaborn&logoColor=white)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-280137?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-280137?style=flat&logo=pytorch&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-280137?style=flat&logo=tensorflow&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-280137?style=flat&logo=opencv&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-280137?style=flat&logo=javascript&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-280137?style=flat&logo=php&logoColor=white)&nbsp;
+![Matlab](https://img.shields.io/badge/Matlab-280137?style=flat&logo=matlab&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-280137?style=flat&logo=express&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-280137?style=flat&logo=node.js&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-280137?style=flat&logo=amazonaws&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-280137?style=flat&logo=googlecloud&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-280137?style=flat&logo=firebase&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-280137?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-280137?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-280137?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Cassandra](https://img.shields.io/badge/Cassandra-280137?style=flat&logo=apachecassandra&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-280137?style=flat&logo=apachekafka&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-280137?style=flat&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-280137?style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-280137?style=flat&logo=nginx&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-280137?style=flat&logo=linux&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-280137?style=flat&logo=git&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-280137?style=flat&logo=postman&logoColor=white)&nbsp;
+![Puppeteer](https://img.shields.io/badge/Puppeteer-280137?style=flat&logo=puppeteer&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-280137?style=flat&logo=selenium&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
